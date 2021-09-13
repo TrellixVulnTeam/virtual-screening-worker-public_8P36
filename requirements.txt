@@ -1,0 +1,4 @@
+pandas==1.0.5
+numpy==1.18.0
+click==8.0.1
+click-config-file==0.6.0
